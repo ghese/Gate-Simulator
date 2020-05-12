@@ -1,6 +1,7 @@
 # Gate Simulator
-# dvl1000_ros
-ROS package, based on python, to read data from the Nortek DVL1000 and feed it to ROS
+A simulation software aimed at Robosub task. This is meant for fetching realitsic images that can be used to train your neural network.
+![alt text](https://github.com/ghese/Gate-Simulator/blob/master/Exports/SharedScreenshot.jpg?raw=true)
+
 
 ## Without compiling
 You could simply navigate to the Exports folder and download the compiled versions of the software if you're not interested in customizing the software or have any other need to recompile it all over.
